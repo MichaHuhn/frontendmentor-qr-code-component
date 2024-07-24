@@ -1,8 +1,6 @@
 <template>
   <div class="qr-code-card">
-    <section>
-      <img src="@/assets/images/qr-code.png" alt="QR code">
-    </section>
+    <img src="@/assets/images/qr-code.png" alt="QR code">
     
     <section class="description-section">
       <h1 class="heading">Improve your front-end skills by building projects</h1>
@@ -45,3 +43,5 @@
   }
 }
 </style>
+<script setup lang="ts">
+</script>
